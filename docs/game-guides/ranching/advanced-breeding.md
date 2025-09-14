@@ -8,6 +8,8 @@ Below you will find all information gathered within the **community and external
 
 Advanced Breeding focuses on techniques to **target specific traits or trait combinations** for your animals.
 
+More advanced calculations and combos can be made on this page: ![Excel Sheet](https://docs.google.com/spreadsheets/d/1DcxzNPS9bvZqXlynaAqkdvxFIstdrMztxNlQJKWk_oU)
+
 ---
 
 ## 🥠 Technique 1: Trait Reset & Targeting
