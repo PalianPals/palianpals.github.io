@@ -1,0 +1,130 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  /* 🌿 Palia Light Mode */
+  --ifm-color-primary: #5a7f65;   /* forest green */
+  --ifm-color-primary-dark: #466452;
+  --ifm-color-primary-darker: #3c5545;
+  --ifm-color-primary-darkest: #2f4336;
+
+  --ifm-color-primary-light: #7fa487;
+  --ifm-color-primary-lighter: #99b99e;
+  --ifm-color-primary-lightest: #b7d0ba;
+
+  --ifm-background-color: #f4ece3; /* parchment */
+  --ifm-heading-color: #8cae8e;    /* wood */
+  --ifm-font-family-base: 'Quicksand', 'Nunito Sans', sans-serif;
+
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(90, 127, 101, 0.15);
+
+  /* Accent */
+  --palia-accent: #D99491; /* blossom pink */
+  --palia-surface: #ffffff;
+  --palia-border: #e0d6cc;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #d0a7d2;   /* base lavender */
+  --ifm-color-primary-dark: #bb90bd;     /* ~15% darker */
+  --ifm-color-primary-darker: #a378a6;   /* ~30% darker */
+  --ifm-color-primary-darkest: #8a648b;  /* ~45% darker */
+
+  --ifm-color-primary-light: #d8b5da;    /* ~10% lighter */
+  --ifm-color-primary-lighter: #e2c6e4;  /* ~20% lighter */
+  --ifm-color-primary-lightest: #f0e0f2; /* ~35% lighter */
+
+  --ifm-background-color: #1a1d23; /* dark neutral base */
+  --ifm-heading-color: #e2e8f0;    /* light gray-white */
+  --ifm-font-family-base: 'Quicksand', 'Nunito Sans', sans-serif;
+
+  --palia-accent: #38b2ac;   /* muted teal accent */
+  --palia-surface: #232831;  /* card bg */
+  --palia-border: #2f3642;
+
+  --docusaurus-highlighted-code-line-bg: rgba(43, 108, 176, 0.25);
+}
+
+/* 🌸 Navbar */
+.navbar {
+  background-color: var(--ifm-background-color);
+  border-bottom: 2px solid var(--palia-border);
+}
+[data-theme='dark'] .navbar {
+  background-color: var(--palia-surface);
+  border-bottom: 2px solid var(--palia-border);
+}
+
+/* 🌸 Footer */
+.footer {
+  background-color: var(--ifm-color-primary-darkest);
+  color: #f4ece3;
+}
+[data-theme='dark'] .footer {
+  background-color: #14181b;
+  color: #f4ece3;
+}
+.footer a {
+  color: var(--palia-accent);
+}
+.footer a:hover {
+  text-decoration: underline;
+}
+
+/* 🌸 Buttons */
+.button--primary {
+  background-color: var(--ifm-color-primary);
+  border-radius: 8px;
+  border: none;
+}
+.button--primary:hover {
+  background-color: var(--ifm-color-primary-dark);
+}
+
+.button--secondary {
+  background-color: var(--palia-accent);
+  color: #fff;
+  border-radius: 8px;
+  border: none;
+}
+
+.button--secondary:hover {
+  background-color: #c98fb5; /* a softer, less saturated pink/lavender */
+}
+
+.button--secondary:hover {
+  background-color: var(--ifm-color-primary-dark); /* forest green hover */
+}
+
+/* 🌸 Cards & Doc Items */
+.card, .theme-doc-markdown {
+  background-color: var(--palia-surface);
+  border: 1px solid var(--palia-border);
+  border-radius: 12px;
+  padding: 1rem;
+}
+[data-theme='dark'] .card,
+[data-theme='dark'] .theme-doc-markdown {
+  background-color: var(--palia-surface);
+  border: 1px solid var(--palia-border);
+}
+
+/* 🌸 Links */
+a {
+  color: var(--ifm-color-primary);
+}
+a:hover {
+  color: var(--palia-accent);
+}
+
+/* 🌸 Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--ifm-heading-color);
+  font-family: 'Quicksand', 'Nunito Sans', sans-serif;
+  font-weight: 700;
+}

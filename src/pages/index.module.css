@@ -1,0 +1,45 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.heroBanner {
+  position: relative;
+  padding: 4rem 0;
+  text-align: center;
+  overflow: hidden;
+}
+
+.heroBannerImg {
+  position: absolute;
+  top: -50px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;       /* scales with banner width */
+  max-width: 1200px; /* optional: prevent it from getting too large on wide screens */
+  height: auto;      /* keeps aspect ratio */
+  pointer-events: none; /* allows clicks through */
+  z-index: 0;        /* behind text */
+}
+
+/* Keep content above the image */
+.heroBanner > .container {
+  position: relative;
+  z-index: 1;
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+
+  .heroBannerImg {
+    width: 100%;      /* scales down for smaller screens */
+  }
+}
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
