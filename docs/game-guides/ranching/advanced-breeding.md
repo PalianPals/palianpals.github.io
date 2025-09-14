@@ -109,7 +109,7 @@ When combined through breeding, these traits can **mutate into a completely new 
 
 ---
 
-### Mutation Table
+## ▦ Mutation Table
 
 | Ingredient 1        | Ingredient 2         | Result        |
 |---------------------|----------------------|---------------|
