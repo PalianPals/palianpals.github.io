@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+#Guidelines
+
 ![Welcome](./img/welcome.png)  
 
 # 🌿 Welcome, Villager! 🌿
