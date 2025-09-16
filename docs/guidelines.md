@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-#Guidelines
+# Guidelines
 
 ![Welcome](./img/welcome.png)  
 
