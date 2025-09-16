@@ -58,7 +58,7 @@ Also, to help us get-to-know you more, react which country you are from.
     - Avoid excessive reposts, chain messages, or disruptive spam.
     - **Live streaming or event coverage requires explicit permission** from staff or hosts. 
 
-        Once caught doing so, you will receive an **AUTOMATIC STRIKE worth 2 points** and may be reprimanded by the staff or moderators.
+ Once caught doing so, you will receive an **AUTOMATIC STRIKE worth 2 points** and may be reprimanded by the staff or moderators.
 
 ### 🚫 No Sensitive or Inappropriate Topics
  - NSFW content, explicit language, political/religious debates, and other sensitive discussions are strictly forbidden.
@@ -89,11 +89,11 @@ Also, to help us get-to-know you more, react which country you are from.
 
  - **RESPECT THEIR PRIVACY** at all times.
 
-    - Do not share personal information (yours or others’) publicly.
+ - Do not share personal information (yours or others’) publicly.
 
-    - Screenshots, DMs, or private conversations **cannot be posted without consent**.
+ - Screenshots, DMs, or private conversations **cannot be posted without consent**.
 
-    - Violating privacy rules may lead to a strike or, in the worst case, immediate removal.
+ - Violating privacy rules may lead to a strike or, in the worst case, immediate removal.
 
 ### 🚨 Report, Don’t Escalate
  - If you encounter a rule-breaker, **submit a ticket or report it directly to staff**.
