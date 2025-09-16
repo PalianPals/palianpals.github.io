@@ -20,6 +20,7 @@ From learning where to find glow worms, to celebrating big milestones together, 
 So settle in, explore the channels, and don’t be shy to introduce yourself because we’d love to meet you!
 
 Also, to help us get-to-know you more, react which country you are from.
+
 **Together, let’s make this community a place where every voice feels heard and every story matters.**
 
 ---
