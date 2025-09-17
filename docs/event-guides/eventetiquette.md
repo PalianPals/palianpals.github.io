@@ -22,6 +22,7 @@ Respect is the heart of every good party.
  - Respect personal boundaries — if someone says “no,” listen and move on.
 
 Keep in mind that behind every username is a real person who deserves kindness.
+
 ✨ **Remember: we’re all here to have fun, make friends, and share good vibes.**
 
 ---
