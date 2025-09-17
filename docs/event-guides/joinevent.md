@@ -7,6 +7,8 @@ sidebar_position: 1
 This guide will show you how to **join a community event** in Palian Pals.  
 Following these steps ensures you are prepared and can participate smoothly in shared activities with other players.
 
+![Join Event](./img/join_event.png)  
+
 ---
 
 ## Step 1: Check Event Details

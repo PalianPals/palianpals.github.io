@@ -7,6 +7,8 @@ sidebar_position: 2
 This tutorial will guide you through **to the home plot of the host** in Palia.  
 Syncing ensures your on the same server and allows you to **join shared events, co-op activities**,
 
+![Home Plot](./img/home_plot.png)  
+
 ---
 
 ## Step 1: Prepare Yourself

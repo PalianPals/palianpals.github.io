@@ -7,6 +7,8 @@ sidebar_position: 4
 This guide will show you how to **leave a community event** in Palian Pals.  
 Following these steps ensures you are **respectful to the host and organizers** and helps the event run smoothly.
 
+![Leave Event](./img/leave_event.png)  
+
 ---
 
 ## Step 1: Cancel your RSVP (Unsign for an Event)
