@@ -1,11 +1,17 @@
 ---
-sidebar_position: 2
+sidebar_position: 5
 ---
 
 # Syncing
 
 This tutorial will guide you through **syncing to the host** in Palia.  
 Syncing ensures your on the same server and allows you to **join shared events, co-op activities**,
+
+It may be on **Kilima Valley**, **Bahari Bay** or **Elderwood**. 
+
+Location depends on where the event will take place.
+
+![Syncing](./img/syncing.png) 
 
 ---
 
