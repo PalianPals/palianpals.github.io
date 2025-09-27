@@ -4,8 +4,8 @@ sidebar_position: 2
 
 # Cooking Recipes
 
-Below are all known **Recipes** with images and how to obtain them, how much focus and  XP  they give and for how much you can sell the dish.
-- Some ways to obtain these recipes may contain spoilers towards to main storyline or locations.
+Below are all known **Recipes** with images and how to obtain them, how much focus and Cooking XP they give you.
+- Some ways to obtain these recipes may contain spoilers towards the main storyline or locations.
 
 
 
