@@ -79,4 +79,4 @@ Some ways to obtain these recipes may contain spoilers towards to main storyline
 |![TroutDinner](./img/TroutDinner.png)|Trout Dinner| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![VeggieChili](./img/VeggieChili.png)|Veggie Chili| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![VeggieFriedRice](./img/VeggieFriedRice.png)|Veggie Fried Rice| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
-|![](./img/.png)|NAME| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
+
