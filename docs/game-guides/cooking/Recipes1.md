@@ -7,7 +7,9 @@ sidebar_position: 2
 Below are all known **Recipes** with images and how to obtain them, how much focus and  XP  they give and for how much you can sell the dish.
 
 ::: warning
+
 Some ways to obtain these recipes may contain spoilers towards to main storyline or locations.
+
 :::
 
 | Image | Name | Amount of Focus and gold| Cooking XP  | How to Obtain | Location |
