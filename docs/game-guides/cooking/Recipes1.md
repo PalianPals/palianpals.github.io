@@ -69,7 +69,7 @@ Below are all known **Recipes** with images and how to obtain them, how much foc
 |![SteakDinner](./img/SteakDinner.png)|Steak Dinner| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![SteamedFish](./img/SteamedFish.png)|Steamed Fish| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![StuffedCabbageRolls](./img/StuffedCabbageRolls.png)|Stuffed Cabbage Rolls| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
-|![StuffedTomato](./img/StuffedTomato.png)|StuffedTomato| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
+|![StuffedTomato](./img/StuffedTomato.png)|Stuffed Tomato| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![Sushi](./img/Sushi.png)|Sushi| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![TroutDinner](./img/TroutDinner.png)|Trout Dinner| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![VeggieChili](./img/VeggieChili.png)|Veggie Chili| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
