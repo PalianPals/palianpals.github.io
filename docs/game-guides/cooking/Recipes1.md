@@ -21,6 +21,7 @@ Below are all known **Recipes** with images and how to obtain them, how much foc
 |![ChapaaMasala](./img/ChapaaMasala.png)|ChapaaMasala| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![ChapaaOnigiri](./img/ChapaaOnigiri.png)|Chapaa Onigiri| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![ChiliOilDumplings](./img/ChiliOilDumplings.png)|Chili Oil Dumplings| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
+|![Congee](./img/Congee.png)|Congee| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![CrabGumbo](./img/CrabGumbo.png)|Crab Gumbo| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![CrabPotPie](./img/CrabPotPie.png)|Crab Pot Pie| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![CreamofMushroomsoup](./img/CreamofMushroomsoup.png)|Cream of Mushroom Soup| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
@@ -33,7 +34,10 @@ Below are all known **Recipes** with images and how to obtain them, how much foc
 |![FlowtatoFriesWithKetchup](./img/FlowtatoFriesWithKetchup.png)|FlowtatoFriesWithKetchup| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![FriedCatfish](./img/FriedCatfish.png)|Fried Catfish| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![FruitSmoothieBowl](./img/FruitSmoothieBowl.png)|Fruit Smoothie Bowl| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
+|![GrilledFish](./img/GrilledFish.png)|Grilled Fish| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
+|![GrilledMeat](./img/GrilledMeat.png)|Grilled Meat| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![GrilledMushroom](./img/GrilledMushroom.png)|Grilled Mushroom| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
+|![GrilledOyster](./img/GrilledOyster.png)|Grilled Oyster| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![HeartyVegetableSoup](./img/HeartyVegetableSoup.png)|Hearty Vegetable Soup| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![HotHounds](./img/HotHounds.png)|Hot Hounds| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![KimchiFriedRice](./img/KimchiFriedRice.png)|Kimchi Fried Rice| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
