@@ -63,7 +63,7 @@ Below are all known **Recipes** with images and how to obtain them, how much foc
 |![SheppsPie](./img/SheppsPie.png)|Shepp's Pie| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![SoonTofu](./img/SoonTofu.png)|Soon Tofu| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![SpicyCrabFriedRice](./img/SpicyCrabFriedRice.png)|SpicyCrabFriedRice| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
-|![SpicyHoneyBakedMuujin](./img/Spicy Honey-Baked Muujin.png)|SpicyHoneyBakedMuujin| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
+|![SpicyHoneyBakedMuujin](./img/SpicyHoneyBakedMuujin.png)|Spicy Honey-Baked Muujin| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![SpicyRiceCakes](./img/SpicyRiceCakes.png)|Spicy Rice Cakes| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![SpicyStirFry](./img/SpicyStirFry.png)|Spicy Stir Fry| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![SteakDinner](./img/SteakDinner.png)|Steak Dinner| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
