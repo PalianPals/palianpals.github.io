@@ -7,7 +7,7 @@ sidebar_position: 2
 Below are all known **Recipes** with images and how to obtain them, how much focus and  XP  they give and for how much you can sell the dish.
 
 
-| Image | Name | <div style="min-width:130px;">Focus</div>  | Cooking  XP  | ![Gold](./img/GOLD.png) Gold Price &nbsp;&nbsp;&nbsp;&nbsp;| How to Obtain | Location |
+| Image | Name | <div style="min-width:300px;">Focus</div>  | Cooking  XP  | ![Gold](./img/GOLD.png) Gold Price &nbsp;&nbsp;&nbsp;&nbsp;| How to Obtain | Location |
 |-------|------------|------------|------------|-------------|------------|--------|
 |![Akwinduu Chapaa](./img/AkwinduuChapaa.png) | Akwinduu Chapaa | 250 - ![Star](./img/STAR.png)375 |  XP  | 51 - ![Star](./img/STAR.png) 64 | Obtained by the quest **Lost in the Wind**. Which is a **Found Item Quest** started by reading a **Recipe Scrap** near the **Statue Garden in Bahari Bay**. | ![Location](./img/AkwinduuChapaaLocation.png) |
 |![Apple Pie](./img/ApplePie.png)|Apple Pie| 325 - ![Star](./img/STAR.png)487|  XP  |109 - ![Star](./img/STAR.png) 154 |The recipe can be obtained by reaching **Friendship level 3 with Delaila**. And completing either the quest **Fertile Ground** or **Berry Blues.**|
