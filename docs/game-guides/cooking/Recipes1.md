@@ -14,7 +14,7 @@ Some ways to obtain these recipes may contain spoilers towards to main storyline
 |![Apple Pie](./img/ApplePie.png)|Apple Pie| 325 <br />![Star](./img/STAR2.png)487|  XP  |The recipe can be obtained by reaching **Friendship level 3 with Delaila**. And completing either the quest **Fertile Ground** or **Berry Blues.**|
 |![Bacon-Stuffed Mushrooms](./img/BaconStuffedMushroom.png)|Bacon-Stuffed Mushrooms| 255 <br />![Star](./img/STAR2.png)337| XP |The recipe is found on a small table in the kitchen of the **Daiya Family's House**. | ![Location](./img/BaconStuffedMushroomLocation.png)|
 |![Bean Burger](./img/BeanBurger.png)|Bean Burger |800 <br />![Star](./img/STAR2.png)1200 | XP | The recipe can be obtained by looting a **treasure chest** that can be found hidden inside the mysterious cave during the quest **Like A Shiprunt.** The chest is located behind Ulfe.|
-|![BlueberryPie](./img/BlueBerryPie.png)|Blueberry Pie| 225<br />![Star](./img/STAR2.png)337| XP | The recipe can be purchased from the Reth / Cooking Guild Store upon reaching Cooking Cooking Level 6, for ![GOLD](./img/GOLD.png) 1,500 Gold.|
+|![BlueberryPie](./img/BlueBerryPie.png)|Blueberry Pie| 225<br />![Star](./img/STAR2.png)337| XP |The recipe can be purchased from the Reth / Cooking Guild Store upon reaching Cooking Cooking Level 6, for ![GOLD](./img/GOLD.png) 1,500 Gold.|
 |![Bouilabaisse](./img/Bouilabaisse.png)|Bouilabaisse| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![CandiedKopaaNuts](./img/CandiedKopaaNuts.png)|Candied Kopaa Nuts| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![CelebrationCake](./img/CelebrationCake.png)|Celebration Cake| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
