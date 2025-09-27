@@ -55,11 +55,11 @@ Below are all known **Recipes** with images and how to obtain them, how much foc
 |![PumpkinPie](./img/PumpkinPie.png)|Pumpkin Pie| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![PumpkinStew](./img/PumpkinStew.png)|Pumpkin Stew| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![QuicheCaleri](./img/QuicheCaleri.png)|Quiche Caleri| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
-|!Ramen](./img/Ramen.png)|Ramen| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
+|![Ramen](./img/Ramen.png)|Ramen| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![RiceCakeSoup](./img/RiceCakeSoup.png)|Rice Cake Soup| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![RiceCakeStirFry](./img/RiceCakeStirFry.png)|Rice Cake Stir Fry| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![Sashimi](./img/Sashimi.png)|Sashimi| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
-|![SSernukNoodleStew](./img/SernukNoodleStew.png)|Sernuk Noodle Stew| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
+|![SernukNoodleStew](./img/SernukNoodleStew.png)|Sernuk Noodle Stew| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![SheppsPie](./img/SheppsPie.png)|Shepp's Pie| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![SoonTofu](./img/SoonTofu.png)|Soon Tofu| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![SpicyCrabFriedRice](./img/SpicyCrabFriedRice.png)|SpicyCrabFriedRice| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
