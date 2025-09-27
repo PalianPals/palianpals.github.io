@@ -34,7 +34,7 @@ Below are all known **Recipes** with images and how to obtain them, how much foc
 |![FriedCatfish](./img/FriedCatfish.png)|Fried Catfish| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![FruitSmoothieBowl](./img/FruitSmoothieBowl.png)|Fruit Smoothie Bowl| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![GrilledMushroom](./img/GrilledMushroom.png)|Grilled Mushroom| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
-|![HeartyVegetableSoup](./img/Hearty Vegetable Soup.png)|Hearty Vegetable Soup| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
+|![HeartyVegetableSoup](./img/HeartyVegetableSoup.png)|Hearty Vegetable Soup| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![HotHounds](./img/HotHounds.png)|Hot Hounds| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![KimchiFriedRice](./img/KimchiFriedRice.png)|Kimchi Fried Rice| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![LoadedFlowtato](./img/LoadedFlowtato.png)|Loaded Flowtato| FOCUS - ![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
