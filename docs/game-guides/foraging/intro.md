@@ -2,6 +2,5 @@
 sidebar_position: 1
 ---
 
-# Intro in Ranching
+# Intro in Foraging
 
-![Thing](./img/thing.png)
