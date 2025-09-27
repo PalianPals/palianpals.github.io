@@ -9,7 +9,7 @@ Below are all known **Recipes** with images and how to obtain them, how much foc
 
 
 
-| Image | Name | Amount of Focus and gold| Cooking XP  | How to Obtain | Location |
+| Image | Name | Amount of Focus | Cooking XP  | How to Obtain | Location |
 |:-----:|------|-------:|-------------|---------------|----------|
 |![Akwinduu Chapaa](./img/AkwinduuChapaa.png) | Akwinduu Chapaa | 250 <br />![Star](./img/STAR2.png)375|  XP  | Obtained by the quest **Lost in the Wind**. Which is a **Found Item Quest** started by reading a **Recipe Scrap** near the **Statue Garden in Bahari Bay**. | ![Location](./img/AkwinduuChapaaLocation.png) |
 |![Apple Pie](./img/ApplePie.png)|Apple Pie| 325 <br />![Star](./img/STAR2.png)487|  XP  |The recipe can be obtained by reaching **Friendship level 3 with Delaila**. And completing either the quest **Fertile Ground** or **Berry Blues.**|
@@ -17,7 +17,7 @@ Below are all known **Recipes** with images and how to obtain them, how much foc
 |![Bean Burger](./img/BeanBurger.png)|Bean Burger |800 <br />![Star](./img/STAR2.png)1200 | XP | The recipe can be obtained by looting a **treasure chest** that can be found hidden inside the mysterious cave during the quest **Like A Shiprunt.** The chest is located behind Ulfe.|
 |![BlueberryPie](./img/BlueBerryPie.png)|Blueberry Pie| 225<br />![Star](./img/STAR2.png)337| XP |The recipe can be purchased from the Reth / Cooking Guild Store upon reaching Cooking Cooking Level 6, for ![GOLD](./img/GOLD.png) 1,500 Gold.|
 |![Bouilabaisse](./img/Bouilabaisse.png)|Bouilabaisse| 350 <br />![Star](./img/STAR2.png) 525| XP |The recipe can be obtained as a reward by completing the **Freshwater Bundle** in the **Vault of the Waves** at the **Night Sky Temple.** |
-|![CandiedKopaaNuts](./img/CandiedKopaaNuts.png)|Candied Kopaa Nuts| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
+|![CandiedKopaaNuts](./img/CandiedKopaaNuts.png)|Candied Kopaa Nuts| 200 <br />![Star](./img/STAR2.png) 300| XP |The recipe can be obtained by reaching **Friendship level 3 with Auni** and completing the quest **In Tents.**|
 |![CelebrationCake](./img/CelebrationCake.png)|Celebration Cake| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![ChapaaAsadaTacos](./img/ChapaaAsadaTacos.png)|Chapaa Asada Tacos| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![ChapaaMasala](./img/ChapaaMasala.png)|ChapaaMasala| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
