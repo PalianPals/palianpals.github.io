@@ -17,7 +17,7 @@ Below are all known **Recipes** with images and how to obtain them, how much foc
 |![Bean Burger](./img/BeanBurger.png)|Bean Burger |800 <br />![Star](./img/STAR2.png)1200 | XP | The recipe can be obtained by looting a **treasure chest** 🎁 that can be found hidden inside the mysterious cave during the quest ❗ **Like A Shiprunt.** The chest is located behind Ulfe.|
 |![BlueberryPie](./img/BlueBerryPie.png)|Blueberry Pie| 225<br />![Star](./img/STAR2.png)337| XP |The recipe can be purchased from the Reth / Cooking Guild Store upon reaching Cooking Cooking Level 6, for ![GOLD](./img/GOLD.png) 1,500 Gold.|
 |![Bouilabaisse](./img/Bouilabaisse.png)|Bouilabaisse| 350 <br />![Star](./img/STAR2.png) 525| XP |The recipe can be obtained as a reward by completing the **Freshwater Bundle** 🌊 in the **Vault of the Waves** at the **Night Sky Temple.** | ![Temple](./img/NIGHTSKY.png) |
-|![CandiedKopaaNuts](./img/CandiedKopaaNuts.png)|Candied Kopaa Nuts| 200 <br />![Star](./img/STAR2.png) 300| XP |The recipe can be obtained by reaching **Friendship level 3 💞 with Auni** and completing the quest **In Tents.**|
+|![CandiedKopaaNuts](./img/CandiedKopaaNuts.png)|Candied Kopaa Nuts| 200 <br />![Star](./img/STAR2.png) 300| XP |The recipe can be obtained by reaching **Friendship level 3 💞 with Auni** and completing the quest ❗ **In Tents.**|
 |![CelebrationCake](./img/CelebrationCake.png)|Celebration Cake| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![ChapaaAsadaTacos](./img/ChapaaAsadaTacos.png)|Chapaa Asada Tacos| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![ChapaaMasala](./img/ChapaaMasala.png)|ChapaaMasala| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
