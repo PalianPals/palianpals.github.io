@@ -74,7 +74,7 @@ Some ways to obtain these recipes may contain spoilers towards to main storyline
 |![SteakDinner](./img/SteakDinner.png)|Steak Dinner| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![SteamedFish](./img/SteamedFish.png)|Steamed Fish| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![StuffedCabbageRolls](./img/StuffedCabbageRolls.png)|Stuffed Cabbage Rolls| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
-|![StuffedTomato](./img/StuffedTomato.png)|Stuffed Tomato| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
+|![StuffedTomato](./img/StuffedTOmato.png)|Stuffed Tomato| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![Sushi](./img/Sushi.png)|Sushi| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![TroutDinner](./img/TroutDinner.png)|Trout Dinner| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![VeggieChili](./img/VeggieChili.png)|Veggie Chili| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
