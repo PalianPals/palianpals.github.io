@@ -2,7 +2,10 @@
 sidebar_position: 3
 ---
 
-# Cooking Stations Explained 
+# Cooking Stations 
+
+
+All the cooking stations & how to start a recipe explained.<br /> <br /> 
 
 Below are the six cooking stations the game has.<br /> 
 <br /> 
