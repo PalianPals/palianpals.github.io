@@ -24,6 +24,10 @@ From left to right;<br />
 Standard Oven, Mixing Station, Standard Stove, Prep Station.<br /> 
 <br /> <br /> 
 ![AdditionalStations](./img/Screenshots/AdditionalStations.png) <br /> <br /> 
+
+![Oven](./img/Oven.png) ![MixingStation](./img/MixingStation.png) ![Stove](./img/Stove.png) ![PrepStation](./img/PrepStation.png)
+
+
  <br /> 
  
 ## 🍳**Starting Ingredients**🍳 
