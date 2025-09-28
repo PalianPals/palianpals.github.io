@@ -12,12 +12,12 @@ The dish, the steps, additional stations, starting ingredients📌, & required p
 
 ![CHAPAA3x](./img/Screenshots/CHAPAA3x.png) <br /> 
  <br /> 
-🍳**The steps**🍳 <br /> 
+## 🍳**The steps**🍳 <br /> 
 The steps show how long or complicated a recipe is, the more steps, the more time you get, but they're also harder to complete on your own.<br /> <br /> 
 
 ![RECIPEBAR](./img/Screenshots/RECIPEBAR.png) <br /> 
 
-🍳**Aditional Stations**🍳 <br /> 
+## 🍳**Aditional Stations**🍳 <br /> 
 The additional stations show which stations you need in addition to the one you start the recipe.<br /> 
 The icons represent the different stations.<br /> 
 From left to right;<br /> 
@@ -26,13 +26,13 @@ Standard Oven, Mixing Station, Standard Stove, Prep Station.<br />
 ![AdditionalStations](./img/Screenshots/AdditionalStations.png) <br /> <br /> 
  <br /> 
  
-🍳**Starting Ingredients**🍳 <br /> <br /> 
+## 🍳**Starting Ingredients**🍳 <br /> <br /> 
 This simply shows wich ingredients are needed to start a recipe, without these you cannot start the recipe.<br /> 
 Some recipes, like the Bean Burger, don't require an ingredient to start the recipe.<br /> 
 ![STARTING](./img/Screenshots/STARTING.png) <br /> <br /> 
 
 
-🍳**Required Produce**🍳 <br /> 
+## 🍳**Required Produce**🍳 <br /> 
 This shows you wich produce and other ingredients you need to complete the recipe.<br /> 
 If you're cooking alone, then you DO have to have all ingredients.<br />
 You do not have to have all ingredients yourself, if a friend can step in and add the missing ingredient you both get the dishes!!<br />  <br /> 
