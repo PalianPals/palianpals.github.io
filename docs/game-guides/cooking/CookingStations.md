@@ -22,11 +22,25 @@ I will explain more about how you can see what you need below.
 |![Oven](./img/Oven.png)| Standard Oven | Very recognizable work station.   | Craftable at your Workstation for: <br />12 Stone Brick - 7 Ceramic - 4 Copper Bar  | 
 
 ## Start cooking!
+<br /> <br /> <br /> 
+To start a recipe you simple interact with one of the stations and choose your recipe.<br /> 
+You will see:<br /> 
+The dish, the steps, additional stations, starting ingredients📌, & required produce. <br /> 
+(📌Some recipes do not have **starting ingredients**) <br /> 
+![CHAPAA3x](./img/Screenshots/CHAPAA3x.png) <br /> 
+ <br /> 
+**The steps** <br /> 
+![RECIPEBAR](./img/Screenshots/RECIPEBAR.png) <br /> 
 
-To start a recipe you simple interact with one of the stations and choose your recipe.
-You will see:
-The dish, the steps, additional stations, starting ingredients*, & required produce. (*Some recipes do not have **starting ingredients**)
+**Aditional Stations** <br /> 
+![AdditionalStations](./img/Screenshots/AdditionalStations.png) <br /> 
+ <br /> 
+**Starting Ingredients** <br /> 
+
+![STARTING](./img/Screenshots/STARTING.png) <br /> 
+
+**Required Produce** <br /> 
+
+![REQUIRED](./img/Screenshots/REQUIRED.png) <br /> 
 
 
-**Aditional Stations**
-|![AdditionalStations](./img/Screenshots/AdditionalStations.png)|
