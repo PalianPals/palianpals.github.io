@@ -22,7 +22,6 @@ The additional stations show which stations you need in addition to the one you 
 The icons represent the different stations.<br /> 
 From left to right;<br /> 
 Standard Oven, Mixing Station, Standard Stove, Prep Station.<br /> 
-<br /> <br /> 
 | | 
 |:-:|
 |![AdditionalStations](./img/Screenshots/AdditionalStations.png) |
