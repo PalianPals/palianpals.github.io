@@ -19,4 +19,4 @@ You'd need a second stove to cook the rice on.<br />
 |![Stove](./img/Stove.png)| Standard Stove | | Craftable at your Workstation: <br />12 Stone - Brick 5 Ceramic - 2 Copper Bar |
 |![MixingStation](./img/MixingStation.png)| Mixing Station |  || Craftable at your Workstation for: <br />20 Sapwood Plank-  2 Copper Bar - 3 Fabric |
 |![PrepStation](./img/PrepStation.png)| Prep Station | | | Craftable at your Workstation for: <br />16 Sapwood Plank - 2 Copper Bar - 6 Ceramic  |
-|![Oven](./img/Oven.png)| Standard Oven |  || Craftable at your Workstation for: <br />12 Stone Brick - 7 Ceramic - 4 Copper Bar  |
+|![Oven](./img/Oven.png)| Standard Oven |  || Craftable at your Workstation for: <br />12 Stone Brick - 7 Ceramic - 4 Copper Bar  | 
