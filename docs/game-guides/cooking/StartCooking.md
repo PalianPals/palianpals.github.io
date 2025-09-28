@@ -34,9 +34,9 @@ Some recipes, like the Bean Burger, don't require an ingredient to start the rec
 
 🍳**Required Produce**🍳 <br /> 
 This shows you wich produce and other ingredients you need to complete the recipe.<br /> 
-You do not have to have all ingredients yourself, if a friend can step in and add the missing ingredient you both get the dishes!!<br /> 
-If you're cooking alone, then you DO have to have all ingredients.<br /> <br /> 
+If you're cooking alone, then you DO have to have all ingredients.<br />
+You do not have to have all ingredients yourself, if a friend can step in and add the missing ingredient you both get the dishes!!<br />  <br /> 
 ![REQUIRED](./img/Screenshots/REQUIRED.png) <br /> <br /> 
-You can also use starred ingredients, but you need to enable this **before** you start the recipe.<br /> 
+You can also use starred ingredients, but you need to enable this **before** you start the recipe.<br /> <br /> 
 ![REQUIRED](./img/Screenshots/STARREDGIF.gif).
 
