@@ -28,10 +28,12 @@ To start a recipe you simple interact with one of the stations and choose your r
 You will see:<br /> 
 The dish, the steps, additional stations, starting ingredients📌, & required produce. <br /> 
 (📌Some recipes do not have **starting ingredients**) <br /> 
+
 ![CHAPAA3x](./img/Screenshots/CHAPAA3x.png) <br /> 
  <br /> 
 **The steps** <br /> 
 The steps show how long or complicated a recipe is, the more steps, the more time you get, but they're also harder to complete on your own.<br /> <br /> 
+
 ![RECIPEBAR](./img/Screenshots/RECIPEBAR.png) <br /> 
 
 **Aditional Stations** <br /> 
