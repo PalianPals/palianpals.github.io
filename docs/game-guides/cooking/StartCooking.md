@@ -26,7 +26,7 @@ Standard Oven, Mixing Station, Standard Stove, Prep Station.<br />
 ![AdditionalStations](./img/Screenshots/AdditionalStations.png) <br /> <br /> 
  <br /> 
  
-## 🍳**Starting Ingredients**🍳 <br /> <br /> 
+## 🍳**Starting Ingredients**🍳 <br /> 
 This simply shows wich ingredients are needed to start a recipe, without these you cannot start the recipe.<br /> 
 Some recipes, like the Bean Burger, don't require an ingredient to start the recipe.<br /> 
 ![STARTING](./img/Screenshots/STARTING.png) <br /> <br /> 
@@ -37,6 +37,7 @@ This shows you wich produce and other ingredients you need to complete the recip
 If you're cooking alone, then you DO have to have all ingredients.<br />
 You do not have to have all ingredients yourself, if a friend can step in and add the missing ingredient you both get the dishes!!<br />  <br /> 
 ![REQUIRED](./img/Screenshots/REQUIRED.png) <br /> <br /> 
+
 You can also use starred ingredients, but you need to enable this **before** you start the recipe.<br />
 This allows you to use starred ingredients, but does not limit the use of unstarred ingredients.<br />
 Without this option enabled your starred ingredients will not be taken.<br /> <br />
