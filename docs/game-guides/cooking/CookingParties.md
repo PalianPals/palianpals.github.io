@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Cooking Parties explained
+# Cooking Parties Explained
 
 
 
