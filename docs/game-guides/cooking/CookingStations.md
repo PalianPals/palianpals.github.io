@@ -20,9 +20,9 @@ I will explain more about how you can see what you need below.
 |![MixingStation](./img/MixingStation.png)| Mixing Station | Can be regognized by the linnen cloth on top.  | Craftable at your Workstation for: <br />20 Sapwood Plank-  2 Copper Bar - 3 Fabric |
 |![PrepStation](./img/PrepStation.png)| Prep Station | Can be recognized by the scratches on top. | Craftable at your Workstation for: <br />16 Sapwood Plank - 2 Copper Bar - 6 Ceramic  |
 |![Oven](./img/Oven.png)| Standard Oven | Very recognizable work station.   | Craftable at your Workstation for: <br />12 Stone Brick - 7 Ceramic - 4 Copper Bar  | 
-
-## Start cooking!
 <br /> <br /> <br /> 
+## Start cooking!
+<br /> 
 To start a recipe you simple interact with one of the stations and choose your recipe.<br /> 
 You will see:<br /> 
 The dish, the steps, additional stations, starting ingredients📌, & required produce. <br /> 
