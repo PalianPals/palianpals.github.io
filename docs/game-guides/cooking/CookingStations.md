@@ -10,7 +10,7 @@ To cook ALL recipes available you will need 2 stations of each in your house.<br
 Some recipes are started at the same station that you also need for your ingredients. <br /> 
 So, for example, some dishes started on a stove, like Chili Oil Dumpings, also need rice to be cooked on a stove. <br /> 
 You'd need a second stove to cook the rice on.<br /> 
-
+I will explain more about how you can see what you need below.
 
 | Image | Name | Usage | How to Obtain  | 
 |:-----:|------|--------|-------------|
@@ -21,3 +21,12 @@ You'd need a second stove to cook the rice on.<br />
 |![PrepStation](./img/PrepStation.png)| Prep Station | Can be recognized by the scratches on top. | Craftable at your Workstation for: <br />16 Sapwood Plank - 2 Copper Bar - 6 Ceramic  |
 |![Oven](./img/Oven.png)| Standard Oven | Very recognizable work station.   | Craftable at your Workstation for: <br />12 Stone Brick - 7 Ceramic - 4 Copper Bar  | 
 
+## Start cooking!
+
+To start a recipe you simple interact with one of the stations and choose your recipe.
+You will see:
+The dish, the steps, additional stations, starting ingredients*, & required produce. (*Some recipes do not have **starting ingredients**)
+
+
+**Aditional Stations**
+|![AdditionalStations](./img/Screenshots/AdditionalStations.png)|
