@@ -5,6 +5,9 @@ sidebar_position: 3
 # Cooking Stations Explained
 
 Below are the six cooking stations the game has.
+To cook ALL recipes available you will need 2 stations of each in your house.
+Some recipes are started at the same station that you also need for your ingredients. But, for example, some dishes started on a stove, like Chili Oil Dumpings, also need rice to be cooked on a stove. 
+You'd need a second stove to cook the rice on.
 
 
 | Image | Name | Usage | How to Obtain  | 
