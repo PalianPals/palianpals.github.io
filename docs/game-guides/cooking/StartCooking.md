@@ -25,8 +25,7 @@ Standard Oven, Mixing Station, Standard Stove, Prep Station.<br />
 <br /> <br /> 
 | | 
 |:-:|
-|![AdditionalStations](./img/Screenshots/AdditionalStations.png) | <br /> <br /> 
-
+|![AdditionalStations](./img/Screenshots/AdditionalStations.png) |
 | ![Oven](./img/Oven.png) ![MixingStation](./img/MixingStation.png) ![Stove](./img/Stove.png) ![PrepStation](./img/PrepStation.png) |
 
 
