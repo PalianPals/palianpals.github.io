@@ -76,7 +76,7 @@ Make sure you pay attention to the station you started on! Sometimes you need to
 
 ![COOK3](./img/Screenshots/COOK3.png)
 
-### 🎮**Finishing a dish**🎮
+### ✅**Finishing a dish**✅
 
 Use the cooking station you started at to add all ingredients and your dish is ready!!<br />
 And if everything went well, you will have your dish ready to collect. <br />
