@@ -55,7 +55,7 @@ Each indicating which ingredient or produce you need to prepare.<br /><br />
 It will look like this; <br /> <br />
 ![COOK1](./img/Screenshots/COOK1.png)<br /> <br />
 
-### 🎮**Preparing ingredients and the minigames**🎮
+### 🎮**The minigames**🎮****
 When you interact with a cooking station you can choose which ingredient you wish you prepare. <br /> <br />
 ![COOK2](./img/Screenshots/COOK2.png) <br /> <br />
 And when you pick an ingredient to prepare you will be presented with a minigame.
@@ -76,12 +76,14 @@ Make sure you pay attention to the station you started on! Sometimes you need to
 
 ![COOK3](./img/Screenshots/COOK3.png)
 
+### 🎮**Finishing a dish**🎮
+
 Use the cooking station you started at to add all ingredients and your dish is ready!!
 And if everything went well, you will have your dish ready to collect. 
 
 | Un-starred Food | ![star](./img/STAR1.png) Starred Food  | 
 |:-:|:-:|
-| Non-starred food will give less focus on consumption and will have a lower gold value. | ![star](./img/STAR1.png) Starred Food gives more focus and has a higher gold value. And can be placed in and around your house as decoration! |
+| Non-starred food will give less focus on consumption and will have a lower gold value. | ![star](./img/STAR1.png) Starred Food gives more focus and has a higher gold value.  <br /> And can be placed in and around your house as decoration! |
  |![MASALANOSTAR](./img/Screenshots/MASALANOSTAR.png) | ![MASALASTAR](./img/Screenshots/MASALASTAR.png) |
 
 <br /> 
@@ -89,6 +91,6 @@ If things went slighty wrong you might be presented with Ruined Food.
 
 | Un-starred Ruined Food | ![star](./img/STAR1.png) Starred Ruined Food  | 
 |:-:|:-:|
-| Non-starred ruined food is a junk item and can be sold for ![GOLD](./img/GOLD.png) 5 Gold. | ![star](./img/STAR1.png) Starred Ruined Food is still classified as junk, it sells for ![GOLD](./img/GOLD.png) 7 Gold.. But it can also be placed in and around your house as decoration! |
+| Non-starred ruined food is a junk item and can be sold for ![GOLD](./img/GOLD.png) 5 Gold. | ![star](./img/STAR1.png) Starred Ruined Food is still classified as junk, it sells for ![GOLD](./img/GOLD.png) 7 Gold.  <br />  But it can also be placed in and around your house as decoration! |
 | ![RUINEDNOSTAR](./img/Screenshots/RUINEDNOSTAR.png) | ![RUINEDSTAR](./img/Screenshots/RUINEDSTAR.png) |
 
