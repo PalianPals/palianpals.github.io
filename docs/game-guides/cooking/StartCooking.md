@@ -92,6 +92,8 @@ But if things went slighty wrong you might be presented with Ruined Food. <br />
 
 ### ![GOLD](./img/GOLD.png)**Gold Value**![GOLD](./img/GOLD.png)
 Prices of the same dish might vary a lot, it depends on the value of the ingredients, the meat, the difference between Heat Root or Dari Cloves, the value of your fish. <br />
-The higher the value of the ingredients, the higher the value of your dish. 
-
+The higher the value of the ingredients, the higher the value of your dish. <br />
+And cooking with friends divides the initial cost of ingredients per person. <br />
+That's why cooking with friends or in one of our events is great to gain some money or a lot of focus food!!<br />
+See you soon!<br /><br />
 ![TABLE](./img/Screenshots/TABLE.png) <br />
