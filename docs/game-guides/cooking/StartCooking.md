@@ -80,6 +80,7 @@ Make sure you pay attention to the station you started on! Sometimes you need to
 
 Use the cooking station you started at to add all ingredients and your dish is ready!!
 And if everything went well, you will have your dish ready to collect. 
+Using ![star](./img/STAR2.png) starred ingredients will increse the chance of a ![star](./img/STAR2.png) starred dish! 
 But if things went slighty wrong you might be presented with Ruined Food. 
 | Un-starred Food | ![star](./img/STAR1.png) Starred Food  | 
 |:-:|:-:|
@@ -89,6 +90,8 @@ But if things went slighty wrong you might be presented with Ruined Food.
 | Non-starred ruined food is a junk item <br /> and can be sold for ![GOLD](./img/GOLD.png) 5 Gold. | ![star](./img/STAR1.png) Starred Ruined Food is still classified as junk, it sells for ![GOLD](./img/GOLD.png) 7 Gold.  <br />  But it can also be placed in and around your house as decoration! |
 | ![RUINEDNOSTAR](./img/Screenshots/RUINEDNOSTAR.png) | ![RUINEDSTAR](./img/Screenshots/RUINEDSTAR.png) |
 
-<br />
+### ![GOLD](./img/GOLD.png)**Gold Value**![GOLD](./img/GOLD.png)
+Prices of the same dish might vary a lot, it depends on the value of the ingredients, the meat, the difference between Heat Root or Dari Cloves, the value of your fish. <br />
+The higher the value of the ingredients, the higher the value of your dish. 
 
 ![TABLE](./img/Screenshots/TABLE.png) <br />
