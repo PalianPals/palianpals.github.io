@@ -81,7 +81,7 @@ Make sure you pay attention to the station you started on! Sometimes you need to
 Use the cooking station you started at to add all ingredients and your dish is ready!!<br />
 And if everything went well, you will have your dish ready to collect. <br />
 Using ![star](./img/STAR2.png) starred ingredients will increse the chance of a ![star](./img/STAR2.png) starred dish! <br />
-But if things went slighty wrong you might be presented with Ruined Food. <br />
+But if things went slighty wrong or when the timer ran out, you might be presented with Ruined Food. <br />
 | Un-starred Food | ![star](./img/STAR1.png) Starred Food  | 
 |:-:|:-:|
 | Non-starred food will give less focus on consumption<br /> and will have a lower gold value. | ![star](./img/STAR1.png) Starred Food gives more focus and has a higher gold value.  <br /> And can be placed in and around your house as decoration! |
