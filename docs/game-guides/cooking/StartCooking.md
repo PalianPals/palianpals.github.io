@@ -57,11 +57,12 @@ It will look like this; <br /> <br />
 
 ### 🎮**Preparing ingredients and the minigames**🎮
 When you interact with a cooking station you can choose which ingredient you wish you prepare. <br /> <br />
-![COOK2](./img/Screenshots/COOK2.png).<br /> <br />
+![COOK2](./img/Screenshots/COOK2.png).  <br /> <br />
 
 And when you pick an ingredient to prepare you will be presented with a minigame.
-| Chopping |Flipping  | Mixing |
+| Chopping | Flipping  | Mixing |
 |:-:|:-:|:-:|
+| You need to click or use the intact button | | |
 |![GIFCHOP](./img/Screenshots/GIFCHOP.gif).|![GIFFLIP](./img/Screenshots/GIFFLIP.gif).|![GIFMIX](./img/Screenshots/GIFMIX.gif).|
 
 
