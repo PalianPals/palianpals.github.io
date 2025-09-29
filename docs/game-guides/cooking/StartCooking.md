@@ -85,10 +85,7 @@ And if everything went well, you will have your dish ready to collect.
 |:-:|:-:|
 | Non-starred food will give less focus on consumption and will have a lower gold value. | ![star](./img/STAR1.png) Starred Food gives more focus and has a higher gold value.  <br /> And can be placed in and around your house as decoration! |
  |![MASALANOSTAR](./img/Screenshots/MASALANOSTAR.png) | ![MASALASTAR](./img/Screenshots/MASALASTAR.png) |
-
-<br /> 
-If things went slighty wrong you might be presented with Ruined Food.
-
+| If things went slighty wrong you might be presented with Ruined Food. | |
 | Un-starred Ruined Food | ![star](./img/STAR1.png) Starred Ruined Food  | 
 |:-:|:-:|
 | Non-starred ruined food is a junk item and can be sold for ![GOLD](./img/GOLD.png) 5 Gold. | ![star](./img/STAR1.png) Starred Ruined Food is still classified as junk, it sells for ![GOLD](./img/GOLD.png) 7 Gold.  <br />  But it can also be placed in and around your house as decoration! |
