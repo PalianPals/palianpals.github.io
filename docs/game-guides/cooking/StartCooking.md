@@ -47,22 +47,22 @@ You can also use starred ingredients, but you need to enable this **before** you
 This allows you to use starred ingredients, but does not limit the use of unstarred ingredients.<br />
 Without this option enabled your starred ingredients will not be taken.<br /> <br />
 When you're ready to cook, press "MAKE". <br /> <br />
-![REQUIRED](./img/Screenshots/STARREDGIF.gif). <br /> <br />
+![REQUIRED](./img/Screenshots/STARREDGIF.gif) <br /> <br />
 
 ## 🍳**Cooking the dish**🍳 
 After you've pressed "MAKE" you will presented with a lot of icons above the cooking stations.<br />
 Each indicating which ingredient or produce you need to prepare.<br /><br />
 It will look like this; <br /> <br />
-![COOK1](./img/Screenshots/COOK1.png).<br /> <br />
+![COOK1](./img/Screenshots/COOK1.png)<br /> <br />
 
 ### 🎮**Preparing ingredients and the minigames**🎮
 When you interact with a cooking station you can choose which ingredient you wish you prepare. <br /> <br />
-![COOK2](./img/Screenshots/COOK2.png).  <br /> <br />
+![COOK2](./img/Screenshots/COOK2.png) <br /> <br />
 
 And when you pick an ingredient to prepare you will be presented with a minigame.
 | Chopping | Flipping  | Mixing |
 |:-:|:-:|:-:|
-| You need to click or use the intact button | | |
-|![GIFCHOP](./img/Screenshots/GIFCHOP.gif).|![GIFFLIP](./img/Screenshots/GIFFLIP.gif).|![GIFMIX](./img/Screenshots/GIFMIX.gif).|
+| You need to click (Or press X / A) to chop when the blue bar is in the white bar. | You need to **click and hold** (Or press X / A) and release once the the blue circle is in the white circle | Simply click and hold (Or press X / A) to mix. |
+|![GIFCHOP](./img/Screenshots/GIFCHOP.gif)|![GIFFLIP](./img/Screenshots/GIFFLIP.gif)|![GIFMIX](./img/Screenshots/GIFMIX.gif)|
 
 
