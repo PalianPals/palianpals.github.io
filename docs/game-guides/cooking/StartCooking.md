@@ -86,7 +86,7 @@ But if things went slighty wrong you might be presented with Ruined Food. <br />
 |:-:|:-:|
 | Non-starred food will give less focus on consumption<br /> and will have a lower gold value. | ![star](./img/STAR1.png) Starred Food gives more focus and has a higher gold value.  <br /> And can be placed in and around your house as decoration! |
 |![MASALANOSTAR](./img/Screenshots/MASALANOSTAR.png) | ![MASALASTAR](./img/Screenshots/MASALASTAR.png) |
-| Un-starred Ruined Food | ![star](./img/STAR1.png) Starred Ruined Food  | 
+| **Un-starred Ruined Food** | ![star](./img/STAR1.png) **Starred Ruined Food**  | 
 | Non-starred ruined food is a junk item <br /> and can be sold for ![GOLD](./img/GOLD.png) 5 Gold. | ![star](./img/STAR1.png) Starred Ruined Food is still classified as junk, it sells for ![GOLD](./img/GOLD.png) 7 Gold.  <br />  But it can also be placed in and around your house as decoration! |
 | ![RUINEDNOSTAR](./img/Screenshots/RUINEDNOSTAR.png) | ![RUINEDSTAR](./img/Screenshots/RUINEDSTAR.png) |
 
@@ -94,6 +94,6 @@ But if things went slighty wrong you might be presented with Ruined Food. <br />
 Prices of the same dish might vary a lot, it depends on the value of the ingredients, the meat, the difference between Heat Root or Dari Cloves, the value of your fish. <br />
 The higher the value of the ingredients, the higher the value of your dish. <br />
 And cooking with friends divides the initial cost of ingredients per person. <br />
-That's why cooking with friends or in one of our events is great to gain some money or a lot of focus food!!<br />
-See you soon!<br /><br />
+That's why cooking with friends or in one of our events is great to gain some money or a lot of focus food!!<br /><br />
+**See you soon!** <br /><br />
 ![TABLE](./img/Screenshots/TABLE.png) <br />
