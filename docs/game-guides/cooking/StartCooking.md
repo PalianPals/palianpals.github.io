@@ -58,11 +58,16 @@ It will look like this; <br /> <br />
 ### 🎮**Preparing ingredients and the minigames**🎮
 When you interact with a cooking station you can choose which ingredient you wish you prepare. <br /> <br />
 ![COOK2](./img/Screenshots/COOK2.png) <br /> <br />
-
 And when you pick an ingredient to prepare you will be presented with a minigame.
 | Chopping | Flipping  | Mixing |
 |:-:|:-:|:-:|
 | You need to click (Or press X / A) to chop when the blue bar is in the white bar. | You need to **click and hold** (Or press X / A) and release once the the blue circle is in the white circle | Simply click and hold (Or press X / A) to mix. |
 |![GIFCHOP](./img/Screenshots/GIFCHOP.gif)|![GIFFLIP](./img/Screenshots/GIFFLIP.gif)|![GIFMIX](./img/Screenshots/GIFMIX.gif)|
+<br />
+The hand and the check mark mean the ingredient is ready, the people icon means that someone is busy preparing. <br /> <br />
+![COOK4](./img/Screenshots/COOK4.png)<br /> 
+And all ingredients that are ready are shown at the bottom of your screen aswell. <br /><br />
+![COOK5](./img/Screenshots/COOK5.png)<br />
 
-
+Make sure you pay attention to the station you started on! Sometimes you need to stir the dish in between preparing the ingredients.<br /><br />
+![COOK3](./img/Screenshots/COOK3.png)
