@@ -55,7 +55,7 @@ Each indicating which ingredient or produce you need to prepare.<br /><br />
 It will look like this; <br /> <br />
 ![COOK1](./img/Screenshots/COOK1.png)<br /> <br />
 
-### 🎮**The minigames**🎮****
+### 🎮**The minigames**🎮
 When you interact with a cooking station you can choose which ingredient you wish you prepare. <br /> <br />
 ![COOK2](./img/Screenshots/COOK2.png) <br /> <br />
 And when you pick an ingredient to prepare you will be presented with a minigame.
@@ -90,7 +90,7 @@ But if things went slighty wrong you might be presented with Ruined Food. <br />
 | Non-starred ruined food is a junk item <br /> and can be sold for ![GOLD](./img/GOLD.png) 5 Gold. | ![star](./img/STAR1.png) Starred Ruined Food is still classified as junk, it sells for ![GOLD](./img/GOLD.png) 7 Gold.  <br />  But it can also be placed in and around your house as decoration! |
 | ![RUINEDNOSTAR](./img/Screenshots/RUINEDNOSTAR.png) | ![RUINEDSTAR](./img/Screenshots/RUINEDSTAR.png) |
 
-### ![GOLD](./img/GOLD.png)**Gold Value**![GOLD](./img/GOLD.png)
+### 💰**Gold Value**💰
 Prices of the same dish might vary a lot, it depends on the value of the ingredients, the meat, the difference between Heat Root or Dari Cloves, the value of your fish. <br />
 The higher the value of the ingredients, the higher the value of your dish. <br />
 And cooking with friends divides the initial cost of ingredients per person. <br />
