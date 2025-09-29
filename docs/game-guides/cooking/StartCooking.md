@@ -65,9 +65,13 @@ And when you pick an ingredient to prepare you will be presented with a minigame
 |![GIFCHOP](./img/Screenshots/GIFCHOP.gif)|![GIFFLIP](./img/Screenshots/GIFFLIP.gif)|![GIFMIX](./img/Screenshots/GIFMIX.gif)|
 <br />
 The hand and the check mark mean the ingredient is ready, the people icon means that someone is busy preparing. <br /> <br />
+
 ![COOK4](./img/Screenshots/COOK4.png) 
+
 And all ingredients that are ready are shown at the bottom of your screen aswell. <br /><br />
+
 ![COOK5](./img/Screenshots/COOK5.png)
 
 Make sure you pay attention to the station you started on! Sometimes you need to stir the dish in between preparing the ingredients.<br /><br />
+
 ![COOK3](./img/Screenshots/COOK3.png)
