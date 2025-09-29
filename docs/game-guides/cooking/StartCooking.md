@@ -8,7 +8,7 @@ sidebar_position: 3
 🍳To start a recipe you simple interact with one of the stations and choose your recipe.<br /> 
 You will see:<br /> 
 The dish, the steps, additional stations, starting ingredients📌, & required produce. <br /> 
-(📌Some recipes do not have **starting ingredients**) <br /> <br /> <br /> 
+(📌Some recipes do not have **starting ingredients** ) <br /> <br /> <br /> 
 
 ![CHAPAA3x](./img/Screenshots/CHAPAA3x.png) <br /> 
  <br /> 
