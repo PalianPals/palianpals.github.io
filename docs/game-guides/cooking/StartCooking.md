@@ -80,14 +80,12 @@ Make sure you pay attention to the station you started on! Sometimes you need to
 
 Use the cooking station you started at to add all ingredients and your dish is ready!!
 And if everything went well, you will have your dish ready to collect. 
-
+But if things went slighty wrong you might be presented with Ruined Food. 
 | Un-starred Food | ![star](./img/STAR1.png) Starred Food  | 
 |:-:|:-:|
 | Non-starred food will give less focus on consumption<br /> and will have a lower gold value. | ![star](./img/STAR1.png) Starred Food gives more focus and has a higher gold value.  <br /> And can be placed in and around your house as decoration! |
 |![MASALANOSTAR](./img/Screenshots/MASALANOSTAR.png) | ![MASALASTAR](./img/Screenshots/MASALASTAR.png) |
- If things went slighty wrong you might be presented with Ruined Food. 
 | Un-starred Ruined Food | ![star](./img/STAR1.png) Starred Ruined Food  | 
-|:-:|:-:|
 | Non-starred ruined food is a junk item <br /> and can be sold for ![GOLD](./img/GOLD.png) 5 Gold. | ![star](./img/STAR1.png) Starred Ruined Food is still classified as junk, it sells for ![GOLD](./img/GOLD.png) 7 Gold.  <br />  But it can also be placed in and around your house as decoration! |
 | ![RUINEDNOSTAR](./img/Screenshots/RUINEDNOSTAR.png) | ![RUINEDSTAR](./img/Screenshots/RUINEDSTAR.png) |
 
