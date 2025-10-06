@@ -12,19 +12,19 @@ Below are all known **Recipes** with images and how to obtain them, how much foc
 | Image | Name | Amount of Focus | Cooking XP  | How to Obtain | Location | Station | 
 |:-----:|------|-------:|-------------|---------------|----------|---------|
 |![Akwinduu Chapaa](./img/AkwinduuChapaa.png) | Akwinduu Chapaa | 250 <br />![Star](./img/STAR2.png)375|  XP  | Obtained by the quest ❗ **Lost in the Wind**. Which is a 🔍 **Found Item Quest** started by reading a **Recipe Scrap** near the **Statue Garden in Bahari Bay**. | ![Location](./img/AkwinduuChapaaLocation.png) |![Oven](./img/Oven.png)|
-|![Apple Pie](./img/ApplePie.png)|Apple Pie| 325 <br />![Star](./img/STAR2.png)487|  XP  |The recipe can be obtained by reaching **Friendship level 3 💞 with Delaila**. And completing either the quest ❗ **Fertile Ground** or ❗ **Berry Blues.**|
-|![Bacon-Stuffed Mushrooms](./img/BaconStuffedMushroom.png)|Bacon-Stuffed Mushrooms| 255 <br />![Star](./img/STAR2.png)337| XP |The recipebook 📘 is found on a small table in the kitchen of the **Daiya Family's House**. | ![Location](./img/BaconStuffedMushroomLocation.png)|
+|![Apple Pie](./img/ApplePie.png)|Apple Pie| 325 <br />![Star](./img/STAR2.png)487|  XP  |The recipe can be obtained by reaching **Friendship level 3 💞 with Delaila**. And completing either the quest  **Fertile Ground** or ❗ **Berry Blues.**|
+|![Bacon-Stuffed Mushrooms](./img/BaconStuffedMushroom.png)|Bacon-Stuffed Mushrooms| 255 <br />![Star](./img/STAR2.png)337| XP |The recipebook 📘 is found on a small table in the kitchen of the **Daiya Family's House**. | ![Location](./img/BaconStuffedMushroomLocation.png
 |![Bean Burger](./img/BeanBurger.png)|Bean Burger |800 <br />![Star](./img/STAR2.png)1200 | XP | The recipe can be obtained by looting a **treasure chest** 🎁 that can be found hidden inside the mysterious cave during the quest ❗ **Like A Shiprunt.** The chest is located behind Ulfe.|
 |![BlueberryPie](./img/BlueBerryPie.png)|Blueberry Pie| 225<br />![Star](./img/STAR2.png)337| XP |The recipe can be purchased from the Reth / Cooking Guild Store upon reaching Cooking Cooking Level 6, for ![GOLD](./img/GOLD.png) 1,500 Gold.|
 |![Bouilabaisse](./img/Bouilabaisse.png)|Bouilabaisse| 350 <br />![Star](./img/STAR2.png) 525| XP |The recipe can be obtained as a reward by completing the **Freshwater Bundle** in the **Vault of the Waves** at the **Night Sky Temple.** |
 |![CandiedKopaaNuts](./img/CandiedKopaaNuts.png)|Candied Kopaa Nuts| 200 <br />![Star](./img/STAR2.png) 300| XP |The recipe can be obtained by reaching **Friendship level 3 💞 with Auni** and completing the quest **In Tents.**|
-|![CelebrationCake](./img/CelebrationCake.png)|Celebration Cake| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
-|![ChapaaAsadaTacos](./img/ChapaaAsadaTacos.png)|Chapaa Asada Tacos| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
-|![ChapaaMasala](./img/ChapaaMasala.png)|ChapaaMasala| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
-|![ChapaaOnigiri](./img/ChapaaOnigiri.png)|Chapaa Onigiri| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
-|![ChiliOilDumplings](./img/ChiliOilDumplings.png)|Chili Oil Dumplings| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
-|![Congee](./img/Congee.png)|Congee| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
-|![CrabGumbo](./img/CrabGumbo.png)|Crab Gumbo| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
+|![CelebrationCake](./img/CelebrationCake.png)|Celebration Cake| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |The recipe can be purchased from the Reth / Cooking Guild Store upon reaching Cooking Cooking Level 9, for ![GOLD](./img/GOLD.png) 3,000 Gold.|
+|![ChapaaAsadaTacos](./img/ChapaaAsadaTacos.png)|Chapaa Asada Tacos| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |The recipe can be purchased from the Reth / Cooking Guild Store upon reaching Cooking Cooking Level 4, for ![GOLD](./img/GOLD.png) 500 Gold.|
+|![ChapaaMasala](./img/ChapaaMasala.png)|Chapaa Masala| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |The recipe can be purchased from the Reth / Cooking Guild Store upon reaching Cooking Cooking Level 8, for ![GOLD](./img/GOLD.png) 2,500 Gold.|
+|![ChapaaOnigiri](./img/ChapaaOnigiri.png)|Chapaa Onigiri| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |The recipe can be purchased from **Reth's Street Specialties** during the **Maji Market** event for ![GOLD](./img/GOLD.png) 1 Gold.|
+|![ChiliOilDumplings](./img/ChiliOilDumplings.png)|Chili Oil Dumplings| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |The recipe can be purchased from the Reth / Cooking Guild Store upon reaching Cooking Cooking Level 9, for ![GOLD](./img/GOLD.png) 2,500 Gold.|
+|![Congee](./img/Congee.png)|Congee| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP | The recipe can be obtained as a reward by completing the Main Quest ❗ **Extravagant Expectations**. |
+|![CrabGumbo](./img/CrabGumbo.png)|Crab Gumbo| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP | The recipe can be obtained by reaching **Friendship level 3 💞 with Zeki** and completing the Quest ❗ **Magical Mystery Machine**. It can be found on a desk inside his room. | ![Location](./img/CrabGumboLOCATION)|
 |![CrabPotPie](./img/CrabPotPie.png)|Crab Pot Pie| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![CreamofMushroomsoup](./img/CreamofMushroomsoup.png)|Cream of Mushroom Soup| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
 |![CreamOfTOmatoSoup](./img/CreamOfTOmatoSoup.png)|Cream of Tomato Soup| FOCUS <br />![Star](./img/STAR2.png) FOCUS| XP |OBTAIN |LOCATION|
